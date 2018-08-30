@@ -76,4 +76,4 @@ with this
 	.VON_LastFinValue = 0
 	.VOC_LastA13Ukey  = nvl(j10.a13_ukey, "")
 	.VOD_LastEmi 	  = j10.j10_003_d
-endwith
+endwith 
